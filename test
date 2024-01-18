@@ -1,3 +1,8 @@
 Hi Hello how are you
 This is my new line i am adding
 Thank you 
+
+Git pull is used to download the latest changes made in the remote repository to local copy and merge with the local code on system.
+so it is the collaborative development of all versions of code to keep in sync across all the repositories.
+
+I have learned git push and git pull
